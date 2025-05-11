@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\Downloads\ComputerGrah6 (2)\ComputerGrah1\Model.h(6,10): error C1083: Не удается открыть файл включение: assimp/Importer.hpp: No such file or directory,
+  (компиляция исходного файла "main.cpp")
+  
